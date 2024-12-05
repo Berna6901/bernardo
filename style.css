@@ -2,21 +2,20 @@ body{
   background-color: #f0f0f0;  
 }
 header{
-background-color:red;
+background-color:black;
 color:white
 padding: 10px;
-margin: 20px;
-border: 5px solid black;
+margin: 0px;
 }
 section {
-background-image: yellow;
+background-color: white;
 padding: 5px;
-margin-top: 50px;
-border: 2px solid green
+margin-top: 10px;
 }
 footer{
-    background-color: blue;
+    background-color: black;
     color:white
-    padding: 40px;
+    padding: 10px;
     margin-top: 10px;
+    text-align:center
 }
